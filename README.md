@@ -56,7 +56,7 @@ Users can describe an application idea, and Nexcraft generates the code, install
 
 ## 🏠 Landing Page
 
-![Landing Page](./screenshots/landing-page.png)
+[Landing Page] <img width="960" height="419" alt="landing Page" src="https://github.com/user-attachments/assets/843e542c-575a-41ca-975a-39ec11127d54" />
 
 Modern AI-powered landing page with prompt input and authentication.
 
