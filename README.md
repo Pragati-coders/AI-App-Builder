@@ -381,11 +381,6 @@ Pragati Mishra
 GitHub:
 https://github.com/Pragati-coders
 
-LinkedIn:
-https://www.linkedin.com/in/pragati-mishra-2026
-
----
-
 ## 🌐 Live Demo
 
 https://ai-app-builder-gi9r.vercel.app
