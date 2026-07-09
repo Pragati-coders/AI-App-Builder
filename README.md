@@ -1,4 +1,3 @@
-<img width="960" height="413" alt="Login" src="https://github.com/user-attachments/assets/c567873a-2a4a-4e2d-b61b-d85f0bfb29c5" />
 # 🚀 Nexcraft – AI App Builder
 
 Build full-stack React applications from a single prompt using AI.
@@ -75,14 +74,13 @@ Secure Google and Email authentication powered by Clerk.
 
 [Dashboard] <img width="960" height="416" alt="Dashboard" src="https://github.com/user-attachments/assets/7eb76bcd-af46-4541-b5f4-773da44ffc9a" />
 
-<img width="960" height="420" alt="Preview" src="https://github.com/user-attachments/assets/2c8a1622-5755-4025-b5ef-8a882bd74fcd" />
 Split-screen workspace with AI chat, generated code, and project management.
 
 ---
 
 ## 👀 Live Preview
 
-![Preview](./screenshots/preview.png)
+[Preview] <img width="960" height="420" alt="Preview" src="https://github.com/user-attachments/assets/2c8a1622-5755-4025-b5ef-8a882bd74fcd" />
 
 Instant application rendering using Sandpack live preview.
 
