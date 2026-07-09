@@ -64,7 +64,7 @@ Modern AI-powered landing page with prompt input and authentication.
 
 ## 🔐 Authentication
 
-![Authentication](./screenshots/login.png)
+[Authentication] <img width="960" height="413" alt="Login" src="https://github.com/user-attachments/assets/4ec50cca-4136-4b9b-8e1f-b593948e3fc3" />
 
 Secure Google and Email authentication powered by Clerk.
 
@@ -72,8 +72,9 @@ Secure Google and Email authentication powered by Clerk.
 
 ## 💻 Workspace Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+[Dashboard] <img width="960" height="416" alt="Dashboard" src="https://github.com/user-attachments/assets/7eb76bcd-af46-4541-b5f4-773da44ffc9a" />
 
+<img width="960" height="420" alt="Preview" src="https://github.com/user-attachments/assets/2c8a1622-5755-4025-b5ef-8a882bd74fcd" />
 Split-screen workspace with AI chat, generated code, and project management.
 
 ---
