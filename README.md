@@ -1,3 +1,4 @@
+<img width="960" height="413" alt="Login" src="https://github.com/user-attachments/assets/c567873a-2a4a-4e2d-b61b-d85f0bfb29c5" />
 # 🚀 Nexcraft – AI App Builder
 
 Build full-stack React applications from a single prompt using AI.
@@ -64,7 +65,7 @@ Modern AI-powered landing page with prompt input and authentication.
 
 ## 🔐 Authentication
 
-[Authentication] <img width="960" height="413" alt="Login" src="https://github.com/user-attachments/assets/4ec50cca-4136-4b9b-8e1f-b593948e3fc3" />
+[Authentication] <img width="960" height="413" alt="Login" src="https://github.com/user-attachments/assets/c567873a-2a4a-4e2d-b61b-d85f0bfb29c5" />
 
 Secure Google and Email authentication powered by Clerk.
 
