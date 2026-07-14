@@ -10,8 +10,8 @@ Nexcraft is an AI-powered application builder inspired by platforms like Bolt.ne
 
 🌐 Live Application
 
-https://ai-app-builder-gi9r.vercel.app
-
+ https://ai-app-builder-ten-omega.vercel.app/
+ 
 💻 GitHub Repository
 
 https://github.com/Pragati-coders/AI-App-Builder
